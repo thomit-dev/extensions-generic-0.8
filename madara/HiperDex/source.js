@@ -17029,7 +17029,7 @@ Please go to the homepage of <${this.baseUrl}> and press the cloud icon.`);
   };
 
   // src/HiperDex/HiperDex.ts
-  var DOMAIN = "https://hiperdex.tv";
+  var DOMAIN = "https://hiperdex.com";
   var HiperDexInfo = {
     version: getExportVersion("0.0.11"),
     name: "HiperDex",
